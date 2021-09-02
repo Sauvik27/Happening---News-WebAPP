@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card{
+  border-radius: 0 0 15px 15px;
+  box-shadow: 3px 3px 6px #e2e2e2;
+  border-width: 0px;
+}
+.navbar{
+  border-radius: 0 0 15px 15px;
+}
+.card-footer{
+  border-width: 0px;
+  border-radius: 15px;
+}
+
+
+.nextPrevBTN{
+  margin: 10px;
+}

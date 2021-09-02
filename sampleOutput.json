@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Jamie Spears 'dragging feet' on conservatorship",
+      "description": "The pop star's father has been accused of trying to extort his daughter before departing the role.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-58406346",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10DB/production/_120351340_gettyimages-539633370.jpg",
+      "publishedAt": "2021-09-01T14:22:20.2060168Z",
+      "content": "image captionBritney Spears alongside her dad Jamie in 2006\r\nBritney Spears' lawyers have accused her father Jamie of \"dragging his feet\" over stepping down from his daughter's conservatorship at her… [+3096 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hurricane Ida: Before and after images reveal devastation",
+      "description": "Aerial photographs reveal damage and flooding in parts of Louisiana following Hurricane Ida.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-58409267",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A2A3/production/_120353614_laplace_epa_976.jpg",
+      "publishedAt": "2021-09-01T14:07:20.7059869Z",
+      "content": "Parts of Louisiana and Mississippi have been left devastated by Hurricane Ida, which flooded communities, knocked out power lines and littered roads with debris.\r\nSatellite images taken by Maxar on T… [+2290 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iceland PM saddened by football sex abuse scandal",
+      "description": "The board of Iceland's football authority resigned after it was accused of covering up allegations.",
+      "url": "http://www.bbc.co.uk/news/world-europe-58407789",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/108B/production/_120353240_gettyimages-1140760844-594x594.jpg",
+      "publishedAt": "2021-09-01T12:22:21.9257339Z",
+      "content": "image captionIceland's Prime Minister Katrin Jakobsdottir said sexual abuse and harassment will not be tolerated\r\nIceland's prime minister has urged the nation's football association to root out sexu… [+2945 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hurricane Ida: New Orleans under curfew amid blackout",
+      "description": "Millions of homes remain without power across New Orleans and the wider region following Hurricane Ida.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-58405169",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C8A/production/_120349591_idablackoutreuters.jpg",
+      "publishedAt": "2021-09-01T10:07:23.1108517Z",
+      "content": "image sourceMississippi Highway Patrol\r\nimage captionThe highway collapse came after intense rainfall as Hurricane Ida reached the US South\r\nNew Orleans officials have imposed a citywide curfew as la… [+3012 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Afghanistan: Biden declares end of US wars to remake countries",
+      "description": "The Taliban enter their second day in power in Afghanistan as the US leader defends the withdrawal.",
+      "url": "http://www.bbc.co.uk/news/live/world-58279900",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+      "publishedAt": "2021-09-01T08:52:42.5352242Z",
+      "content": "On Tuesday afternoon, Joe Biden tried to turn the page from a month of chaos and death in Afghanistan and, more broadly, from 20 years of ultimately futile US attempts at occupation and nation-buildi… [+1607 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Texas passes law banning abortion after six weeks",
+      "description": "The law, one of the most restrictive in the US, passes as the Supreme Court fails to block it.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-58406496",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11930/production/_120348917_gettyimages-1233172300.jpg",
+      "publishedAt": "2021-09-01T07:52:23.1165718Z",
+      "content": "image captionPro-life demonstrations have been taking place in Texas\r\nA law banning abortion from as early as six weeks into pregnancy has come into effect in the US state of Texas.\r\nIt bans abortion… [+5108 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Wildlife photo: Is this the world's most beautiful mosquito?",
+      "description": "Both beauty and beast. A Sabethes mosquito is visually stunning but it's also a carrier of disease.",
+      "url": "http://www.bbc.co.uk/news/science-environment-58398905",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/228C/production/_120344880_gil-wizen-wpy-index.jpg",
+      "publishedAt": "2021-09-01T07:22:25.7607102Z",
+      "content": "By Jonathan AmosBBC Science Correspondent\r\nimage sourceGil Wizen/WPY\r\nimage captionSabethes mosquito: Only the females blood-feed, and only when they're about to produce eggs\r\nYou can't help but marv… [+4072 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Japan finds black particles in Moderna vaccine",
+      "description": "It comes less than a week after the country suspended more than a million doses due to contamination.",
+      "url": "http://www.bbc.co.uk/news/world-asia-58405210",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77E6/production/_120349603_gettyimages-1332309519.jpg",
+      "publishedAt": "2021-09-01T04:07:26.9694191Z",
+      "content": "image captionSeveral black particles were found in one vial of the vaccine by a pharmacist,\r\nJapan has put a batch of Moderna's Covid-19 vaccine on hold after a foreign substance was found in a vial.… [+1559 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why was this athlete 'too tall' to race?",
+      "description": "Blake Leeper fought to compete with able-bodied athletes, but his blades were deemed too long.",
+      "url": "http://www.bbc.co.uk/news/disability-58398944",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9EE2/production/_120347604_p09tpjqq.jpg",
+      "publishedAt": "2021-08-31T23:37:20.5986054Z",
+      "content": "Do running prostheses, also known as blades, give sprinters an unfair advantage over biological legs? And does increasing blade length make sprinters go even faster?\r\nUS athlete Blake Leeper, a doubl… [+644 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Image of bird at US-Mexico border wall wins contest",
+      "description": "The winning image by Mexican photographer Alejandro Prieto shows a roadrunner at the border wall.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-58404382",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12100/production/_120348937_web-birdsintheenvironment-gold-alejandroprieto.jpg",
+      "publishedAt": "2021-08-31T23:22:22.8093031Z",
+      "content": "image sourceAlejandro Prieto / Bird Photographer of the Yea\r\nimage captionMr Prieto has documented wildlife at the US-border wall and their ecosystems\r\nMexican photographer Alejandro Prieto's image o… [+1449 chars]"
+    }
+  ]
+}
