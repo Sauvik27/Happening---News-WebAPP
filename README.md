@@ -1,6 +1,10 @@
 # Happening - News Bulletin WebAPP
 
-Used React - class based components
+Used React - Function based components
+![image](https://user-images.githubusercontent.com/57688017/132116420-c0ea491f-9de6-40af-b9d5-c6585b702411.png)
+![image](https://user-images.githubusercontent.com/57688017/132116434-658c04dc-f275-463e-abb8-c4f65f082c69.png)
+![image](https://user-images.githubusercontent.com/57688017/132116440-36d1e377-a85c-43ed-a50d-8b114f0acdb9.png)
+
 
 ## Available Scripts
 
